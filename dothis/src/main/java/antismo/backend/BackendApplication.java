@@ -1,11 +1,11 @@
-package com.example.dothis;
+package antismo.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DothisApplication {
+public class BackendApplication {
     public static void main(String[] args) {
-        SpringApplication.run(DothisApplication.class, args);
+        SpringApplication.run(BackendApplication.class, args);
     }
 }
